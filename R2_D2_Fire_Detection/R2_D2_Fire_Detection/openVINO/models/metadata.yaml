@@ -1,0 +1,16 @@
+description: Ultralytics best model trained on /content/project-2/data.yaml
+author: Ultralytics
+date: '2024-03-09T16:51:29.759057'
+version: 8.1.24
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: fire
+  1: 'no'
+  2: smoke
